@@ -1,6 +1,6 @@
 {
-  "name": "themosis/framework",
-  "description": "The Themosis framework.",
+  "name": "ecw/framework",
+  "description": "ECW Themosis framework.",
   "keywords": ["themosis", "framework", "wordpress"],
   "license": "GPL-2.0-or-later",
   "support": {
@@ -73,7 +73,8 @@
     "fakerphp/faker": "^1.9.1",
     "friendsofphp/php-cs-fixer": "^2.17",
     "phpunit/phpunit": "^9.0",
-    "symfony/var-dumper": "^5.2"
+    "symfony/var-dumper": "^5.2",
+    "wp-cli/wp-cli": "^2.4"
   },
   "scripts": {
     "test": "phpunit"
